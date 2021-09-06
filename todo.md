@@ -1,0 +1,8 @@
+- [] General Layout
+- [x] Header / NavBar
+- [x] Welcome
+- [] Projects (Lesons learned from each project)
+- [] Experience (Timeline, lessons learned)
+- [] Skills (Languages, frameworks, tools)
+- [] About me
+- [] Contact
